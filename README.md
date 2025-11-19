@@ -1,4 +1,4 @@
-# Data Analytic Project
+# Device Complaint Analytic Project
 
 ## This is a showcase of Excel, Power BI and SQL usage.
 
@@ -10,27 +10,27 @@
 
 ## Data Model
 >
-> ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/appsettings.png)
+> ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/powerbi_model.png)
 
 ## Features
 
 * SQL Server database connection with Power BI.
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/appsettings.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/sql.png)
 
 * Power BI Charts and Visualizations.
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/ui.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/powerbi_1.png)
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/ui.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/powerbi_2.png)
 
 * Excel Pivot Tables, Formulas and Charts.
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/crud.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/excel.png)
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/sending.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/excel_2.png)
 
-   ![image](https://github.com/TwilightSaw/CodeReviews.Console.Phonebook/blob/main/Phonebook.TwilightSaw/images/sending.png)
+   ![image](https://github.com/TwilightSaw/DeviceComplaintAnalytics/blob/master/images/excel_3.png)
 
 ## Resources Used
 - Various Power BI and Excel related articles and resources.
